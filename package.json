@@ -1,6 +1,6 @@
 {
   "name": "@summer-lights/larksuiteoapi-node-sdk",
-  "version": "1.55.0",
+  "version": "1.55.1",
   "description": "larksuite open sdk for nodejs",
   "keywords": [
     "feishu",
