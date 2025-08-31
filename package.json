@@ -1,5 +1,5 @@
 {
-  "name": "@larksuiteoapi/node-sdk",
+  "name": "@summer-lights/larksuiteoapi-node-sdk",
   "version": "1.55.0",
   "description": "larksuite open sdk for nodejs",
   "keywords": [
@@ -68,5 +68,16 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scutrobotlab/larksuite-node-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scutrobotlab/larksuite-node-sdk/issues"
   }
 }
